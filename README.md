@@ -32,5 +32,5 @@
 
 ## スクリーンショット
   
-![ScreenShot01](ScreenShot/s1.png)
-![ScreenShot02](ScreenShot/s2.png)
+![ScreenShot01](ScreenShot/s1.PNG)
+![ScreenShot02](ScreenShot/s2.PNG)
